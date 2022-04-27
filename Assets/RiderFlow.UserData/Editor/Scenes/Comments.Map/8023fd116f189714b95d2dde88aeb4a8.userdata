@@ -1,0 +1,14 @@
+{
+  "GlobalObjectId_V1-2-8023fd116f189714b95d2dde88aeb4a8-1885842579-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-8023fd116f189714b95d2dde88aeb4a8-1885842579-0",
+    "CommentText": "Enviroment",
+    "AssetGUID": "8023fd116f189714b95d2dde88aeb4a8",
+    "UniqueItemID": "GlobalObjectId_V1-2-8023fd116f189714b95d2dde88aeb4a8-1885842579-0"
+  },
+  "GlobalObjectId_V1-2-8023fd116f189714b95d2dde88aeb4a8-1140079712-0": {
+    "GameObjectId": "GlobalObjectId_V1-2-8023fd116f189714b95d2dde88aeb4a8-1140079712-0",
+    "CommentText": "PlayerController",
+    "AssetGUID": "8023fd116f189714b95d2dde88aeb4a8",
+    "UniqueItemID": "GlobalObjectId_V1-2-8023fd116f189714b95d2dde88aeb4a8-1140079712-0"
+  }
+}
